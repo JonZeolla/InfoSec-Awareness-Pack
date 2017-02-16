@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <head>
+    <title>Podcast Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="Enterprise Security Weekly (Audio)" xmlUrl="http://eswaudio.swsgtv.libsynpro.com/rss" />
+      <outline type="rss" text="Security Now (MP3)" xmlUrl="http://feeds.twit.tv/sn.xml" />
+      <outline type="rss" text="Cigital » The Silver Bullet Security Podcast with Gary McGraw" xmlUrl="http://feeds.feedburner.com/silverbulletsecurity" />
+      <outline type="rss" text="Risky Business" xmlUrl="http://risky.biz/feeds/risky-business" />
+      <outline type="rss" text="Cisco TAC Security Podcast Series" xmlUrl="http://www.cisco.com/assets/cdc_content_elements/rss/security_podcast/security_tac_pcast.xml" />
+      <outline type="rss" text="The CyberWire - Your cyber security news connection." xmlUrl="http://thecyberwire.libsyn.com/rss" />
+      <outline type="rss" text="SANS Internet Storm Center Daily Network Security and Information Security Podcast" xmlUrl="https://isc.sans.edu/dailypodcast.xml" />
+      <outline type="rss" text="Data Driven Security" xmlUrl="http://podcast.datadrivensecurity.info/feed/ddsec-feed.xml" />
+    </outline>
+  </body>
+</opml>
