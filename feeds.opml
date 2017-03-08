@@ -92,6 +92,7 @@
             <outline type="rss" text="statistics-and-friends" title="statistics-and-friends" xmlUrl="http://www.feedspot.com/u/a380a4c2c668af6ace84aacc7033b125/tag/statistics-and-friends/rss" htmlUrl="http://rss.feedspot.com/u/a380a4c2c668af6ace84aacc7033b125/tag/statistics-and-friends/rss"/>
             <outline type="rss" text="The Stata Blog" title="The Stata Blog" xmlUrl="http://blog.stata.com/feed/" htmlUrl="http://blog.stata.com"/>
             <outline type="rss" text="Monash Research Integrated Feed" title="Monash Research Integrated Feed" xmlUrl="http://feeds.feedburner.com/MonashInformationServices?format=xml" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=deb92100c853b9318e113fa52d37ca99"/>
+            <outline type="rss" text="Blog – JASK" title="Blog – JASK" xmlUrl="https://jask.ai/blog/feed/" htmlUrl="https://jask.ai"/>
         </outline>
         <outline text="Events - IT Security" title="Events - IT Security">
             <outline type="rss" text="SecurityTube.Net" title="SecurityTube.Net" xmlUrl="http://feeds2.feedburner.com/SecurityTube" htmlUrl="http://www.securitytube.net"/>
