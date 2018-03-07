@@ -5,10 +5,10 @@
   <body>
     <outline text="feeds">
       <outline type="rss" text="Software Gone Wild by ipSpace.net" xmlUrl="http://feeds.feedburner.com/SoftwareGoneWild" />
-      <outline type="rss" text="Packet Pushers - Network Break" xmlUrl="https://packetpushers.net/series/network-break-podcast-post/feed/" />
       <outline type="rss" text="Packet Pushers Datanauts" xmlUrl="http://feeds.packetpushers.net/datanauts/" />
       <outline type="rss" text="Talk Python To Me - Python conversations for passionate developers" xmlUrl="https://talkpython.fm/episodes/rss" />
       <outline type="rss" text="The New Stack Makers" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:107605642/sounds.rss" />
+      <outline type="rss" text="The Changelog" xmlUrl="https://changelog.com/podcast/feed" />
     </outline>
   </body>
 </opml>
